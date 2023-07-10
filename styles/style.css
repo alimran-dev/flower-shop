@@ -112,3 +112,12 @@ body {
 .hot-deal img {
     width: 200px;
 }
+
+/* instagram section related styles here  */
+.instagram-images {
+    margin: 15px auto 0px;
+}
+
+.instagram-images img {
+    width: 250px;
+}
