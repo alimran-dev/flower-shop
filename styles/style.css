@@ -2,3 +2,43 @@
     margin: 0px;
     padding: 0px;
 }
+/* common styles here  */
+body{
+    font-family: 'Lato', sans-serif;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.description{
+    color: #27272799;
+    font-size: 14px;
+    padding: 20px 0px;
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #E55473;
+    font-size: 16px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+}
+/* header related styles here  */
+.header-container{
+    background-color: #E554731A;
+    padding: 50px 50px 0px;
+}
+.header-info{
+    text-align: left;
+    max-width: 35%;
+}
+.header-info h1{
+    color: #272727;
+    font-size: 55px;
+    font-weight: 800;
+}
+.header-container > img{
+    width: 420px;
+    padding-right: 50px;
+}
