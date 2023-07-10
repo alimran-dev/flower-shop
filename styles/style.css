@@ -24,6 +24,14 @@ body{
     border: none;
     border-radius: 5px;
 }
+.title{
+    color: #272727;
+    font-size: 28px;
+    font-weight: 800;
+}
+.center-div{
+    text-align: center;
+}
 /* header related styles here  */
 .header-container{
     background-color: #E554731A;
@@ -41,4 +49,8 @@ body{
 .header-container > img{
     width: 420px;
     padding-right: 50px;
+}
+/* featured related styles here  */
+.featured-top{
+    margin-top: 80px;
 }
