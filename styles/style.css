@@ -101,3 +101,14 @@ body {
     color: #272727CC;
     font-size: 16px;
 }
+
+/* hot deal related styles here  */
+.hot-deal {
+    background-color: #E554730D;
+    padding: 70px 100px;
+    margin: 80px 0px;
+}
+
+.hot-deal img {
+    width: 200px;
+}
