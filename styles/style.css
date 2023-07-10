@@ -85,3 +85,19 @@ body {
     padding: 20px auto;
     margin: 15px auto;
 }
+
+.featured-bottom {
+    background-color: #2727270D;
+    border-radius: 5px;
+    padding: 50px 0px;
+    margin: 50px auto;
+}
+
+.featured-item img {
+    width: 50px;
+}
+
+.featured-item h3 {
+    color: #272727CC;
+    font-size: 16px;
+}
