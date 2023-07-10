@@ -141,3 +141,31 @@ body {
     margin-right: 5px;
     border: none;
 }
+
+/* footer related styles here  */
+footer {
+    background-color: #111010;
+    color: white;
+}
+
+.footer-info {
+    padding: 110px;
+}
+
+.footer-info h2 {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.footer-description {
+    color: #FFFFFFE5;
+    padding: 20px 0px;
+    font-size: 14px;
+}
+
+.copyright {
+    font-size: 14;
+    color: #FFFFFF66;
+}
+
+/* all ends here  */
