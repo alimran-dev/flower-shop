@@ -121,3 +121,23 @@ body {
 .instagram-images img {
     width: 250px;
 }
+
+/* email subscription section related styles here  */
+.email-subscription-container {
+    background-image: url('../assets/images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 80px auto;
+}
+
+.email-subscription {
+    padding: 80px;
+}
+
+.email-subscription input {
+    padding: 12px 180px 12px 20px;
+    margin-right: 5px;
+    border: none;
+}
