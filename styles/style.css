@@ -1,22 +1,26 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
+
 /* common styles here  */
-body{
+body {
     font-family: 'Lato', sans-serif;
 }
-.flex{
+
+.flex {
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.description{
+
+.description {
     color: #27272799;
     font-size: 14px;
     padding: 20px 0px;
 }
-.btn{
+
+.btn {
     color: #FFFFFF;
     background-color: #E55473;
     font-size: 16px;
@@ -24,33 +28,60 @@ body{
     border: none;
     border-radius: 5px;
 }
-.title{
+
+.title {
     color: #272727;
     font-size: 28px;
     font-weight: 800;
 }
-.center-div{
+
+.center-div {
     text-align: center;
 }
+
+.minimize-width {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
 /* header related styles here  */
-.header-container{
+.header-container {
     background-color: #E554731A;
     padding: 50px 50px 0px;
 }
-.header-info{
+
+.header-info {
     text-align: left;
     max-width: 35%;
 }
-.header-info h1{
+
+.header-info h1 {
     color: #272727;
     font-size: 55px;
     font-weight: 800;
 }
-.header-container > img{
+
+.header-container>img {
     width: 420px;
     padding-right: 50px;
 }
+
 /* featured related styles here  */
-.featured-top{
+.featured-top {
     margin-top: 80px;
+}
+
+.featured-img-card>img {
+    width: 250px;
+    height: 300px;
+    padding: 110px 40px 0px;
+    border-radius: 180px 180px 0px 0px;
+}
+
+.featured-img-card a {
+    color: #272727;
+    text-align: center;
+    display: block;
+    padding: 20px auto;
+    margin: 15px auto;
 }
